@@ -1,0 +1,3 @@
+three function isPrime, smpf, S()
+
+smpf gets factor and save prime factors in list
